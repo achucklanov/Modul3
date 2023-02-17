@@ -6,7 +6,7 @@
         {
 
             string myName;
-            myName = "Иван";
+            myName = "Иван Грозный";
 
             Console.WriteLine(myName);
 
